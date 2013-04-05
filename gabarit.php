@@ -9,14 +9,14 @@
     <div id="global">
       <header>
         <h1 id="titreBlog">Mon Blog</h1>
-        <p>Je vous souhaite la bienvenue sur ce modeste blog.</p>
+        <p>Je vous souhaite la bienvenue sur ce modeste(ou pas) blog.</p>
       </header>
       <nav>
         <section>
           <h1>Billets</h1>
           <ul>
-            <li><a href="todo">Billets récents</a></li>
-            <li><a href="todo">Tous les billets</a></li>
+            <li><a href="todo">Billets récents(test pour gui)</a></li>
+            <li><a href="todo">Tous les billets(coucou Gui)</a></li>
           </ul>
         </section>
         <section>
