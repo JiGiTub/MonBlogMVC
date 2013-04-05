@@ -15,7 +15,7 @@
         <section>
           <h1>Billets</h1>
           <ul>
-            <li><a href="todo">Billets récents(test)</a></li>
+            <li><a href="todo">Billets récents(test pour gui)</a></li>
             <li><a href="todo">Tous les billets(coucou Gui)</a></li>
           </ul>
         </section>
