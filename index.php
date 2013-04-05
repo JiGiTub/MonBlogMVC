@@ -9,5 +9,6 @@ try {
 catch (Exception $e) {
     $msgErreur = $e->getMessage();  // Création du message d'erreur
     require 'erreur.php';           // Génération de la vue d'erreur
+    //commentaire
 }
 
